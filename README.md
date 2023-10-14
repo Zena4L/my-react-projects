@@ -11,3 +11,8 @@
    - events
    - form interactive components
      ![pizza](steps.png)
+3. steps
+   - states
+   - data-flow
+   - state management
+     ![pizza](trip.png)
