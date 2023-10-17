@@ -11,8 +11,15 @@
    - events
    - form interactive components
      ![pizza](steps.png)
-3. steps
+3. travel-planner
    - states
    - data-flow
    - state management
      ![pizza](trip.png)
+
+## Intermediate
+
+1. popcorn-box
+
+- effects: userEffect
+  ![pizza](usepopcorn.png)
