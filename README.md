@@ -23,3 +23,17 @@
 
 - effects: userEffect
   ![pizza](usepopcorn.png)
+
+## Advance
+
+1. worldwise
+
+- effects: userEffect
+- contextApi
+- reducers and useReducer
+- leafleat
+  ![pizza](shot1.png)
+  ![pizza](shot2.png)
+  ![pizza](shot3.png)
+  ![pizza](shot4.png)
+  ![pizza](shot5.png)
